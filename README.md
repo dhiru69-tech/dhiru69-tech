@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Dhiru! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Linux Enthusiast • Python Developer • Problem Solver • Ethical Hacker  </b>
+<b>⚡Linux Enthusiast • Python Developer • Problem Solver • Ethical Hacker  • Recon & Security Researcher⚡</b>
 </p>
 
 <!-- Animated typing effect -->
