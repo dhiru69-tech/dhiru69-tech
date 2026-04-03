@@ -46,7 +46,7 @@ I am a **Cybersecurity Learner** focused on **Ethical Hacking** and **Network Se
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiru69-tech&show_icons=true&theme=tokyonight" alt="Dhiru's GitHub stats"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiru69-tech&theme=tokyonight" alt="Dhiru's GitHub streak"/>
 </p>
 
