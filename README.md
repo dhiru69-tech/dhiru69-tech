@@ -13,7 +13,7 @@
 <!-- Animated typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAD&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Linux%F0%9F%90%BC+Python+%F0%9F%90%8D+Automation+%F0%9F%94%A5;Researcher+;Let's+innovate+and+grow+together!"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhiru69-tech&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+
 </p>
 
 ---
